@@ -1,0 +1,3 @@
+cvgy_location_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CVGYLocationBundle:Default:index }

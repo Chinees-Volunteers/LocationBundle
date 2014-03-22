@@ -1,0 +1,30 @@
+{
+    "name" : "CVGY/LocationBundle",
+    "description" : "A bundle to manage geo locations",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Chinese Volunteers Association",
+        "email" : "v@chinesevolunteers.org"
+    }],
+    "keywords" : [
+        "location bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "CVGY\\LocationBundle" : ""
+        }
+    },
+    "target-dir" : "CVGY/LocationBundle",
+    "repositories" : [{
+    ],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}

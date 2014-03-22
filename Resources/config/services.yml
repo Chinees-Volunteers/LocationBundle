@@ -1,0 +1,7 @@
+parameters:
+#    cvgy_location.example.class: CVGY\LocationBundle\Example
+
+services:
+#    cvgy_location.example:
+#        class: %cvgy_location.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
